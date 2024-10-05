@@ -1,2 +1,2 @@
-s = "                   ' Hai                  '               hello                                                                                                                                    "
+s = "                   '                     Hai                  '               hello                                                                                                                                    "
 print(s.strip())
