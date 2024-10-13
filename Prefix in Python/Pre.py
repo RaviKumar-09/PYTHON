@@ -1,2 +1,2 @@
 s = "hello"
-print(s.startswith(""))
+print(s.startswith("ravi"))
