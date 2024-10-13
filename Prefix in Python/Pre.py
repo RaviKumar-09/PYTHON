@@ -1,2 +1,2 @@
-s = "hello"
+s = ""
 print(s.startswith("ravi"))
