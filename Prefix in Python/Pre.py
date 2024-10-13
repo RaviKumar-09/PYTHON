@@ -1,2 +1,2 @@
 s = "hello"
-print(s.startswith("hell"))
+print(s.startswith("hell0"))
