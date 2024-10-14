@@ -1,3 +1,3 @@
-words = ["Hello","Ravi"]
+words = []
 sentence = " ".join(words)
 print(sentence) 
