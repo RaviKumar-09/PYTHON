@@ -1,3 +1,3 @@
-my_list = ['H', 'e', 'l', 'l', 'o']
+my_list = []
 result = "".join(my_list)
 print(result)
