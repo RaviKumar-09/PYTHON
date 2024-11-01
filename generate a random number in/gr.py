@@ -1,2 +1,2 @@
 import random
-print(random.randint(-1,-99))
+print(random.randint(1,-99))
