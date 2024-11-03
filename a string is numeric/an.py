@@ -1,2 +1,2 @@
-s = "12345"
+s = "1hdjdhiuodi"
 print(s.isnumeric())
