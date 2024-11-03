@@ -1,2 +1,2 @@
-s = "1hdjdhiuodi"
+s = "uhuhjiiiio0.0."
 print(s.isnumeric())
