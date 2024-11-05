@@ -1,6 +1,6 @@
-name = "Ravikumar"       # String
-age = 25                 # Integer
-height = 5.9             # Float
-is_student = True        # Boolean
+name = "Ravikumar"       
+age = 25                 
+height = 5.9             
+is_student = True        
 
 print()
