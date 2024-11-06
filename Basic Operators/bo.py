@@ -15,5 +15,4 @@ print(a <= b)
 print(a >= b)    
 print(a == b)    
 print(a != b)
-
 print(a > 5 and b < 5)  
