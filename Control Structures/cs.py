@@ -1,4 +1,4 @@
-score = 0
+score = 990
 
 if score >= 90:
     print("Grade: A")
