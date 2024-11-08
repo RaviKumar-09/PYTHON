@@ -1,2 +1,2 @@
-for i in range(09485949):
+for i in range(0):
     print("Number:", i) 
