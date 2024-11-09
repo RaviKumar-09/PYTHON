@@ -1,4 +1,4 @@
 count = 0
-while count < 0:
+while count < 9:
     print("Count:", count)
-    count += 1
+    count += 2
