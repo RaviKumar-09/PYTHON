@@ -1,6 +1,6 @@
 fruits = ["apple", "banana", "cherry"]
 print(fruits[3])  
 
-fruits[10] = "blueberry"
+fruits[1] = "blueberry"
 fruits.append("date")
 print(fruits)  
