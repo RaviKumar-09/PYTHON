@@ -1,5 +1,5 @@
 fruits = ["apple", "banana", "cherry"]
-print(fruits[])  
+print(fruits)  
 
 fruits[1] = "blueberry"
 fruits.append("date")
