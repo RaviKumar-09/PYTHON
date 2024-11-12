@@ -4,6 +4,6 @@ person = {
     "city": "Palacole"
 }
 
-print(person[""])  
+print(person["name"])  
 person["age"] = 26
 print(person)  
