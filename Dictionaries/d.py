@@ -1,5 +1,5 @@
 person = {
-    "name": "Ravikumar",
+    "name": "",
     "age": 25,
     "city": "Palacole"
 }
