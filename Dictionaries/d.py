@@ -1,7 +1,7 @@
 person = {
     "name": "Ravikumar",
     "age": 25,
-    "city": "Palacole"
+    "city": ""
 }
 
 print(person["name"])  
