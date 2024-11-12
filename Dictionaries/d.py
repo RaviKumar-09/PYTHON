@@ -5,5 +5,5 @@ person = {
 }
 
 print(person["name"])  
-person["age"] = 26
+person["age"] = ""
 print(person)  
