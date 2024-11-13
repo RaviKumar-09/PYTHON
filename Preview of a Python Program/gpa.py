@@ -12,6 +12,7 @@ while not done:
     if grade == "":
         done = True
     elif grade not in points:
+        # unrecognized grade entered
         print("Unkown grade '{0}' beging ignored".format(grade))
     else:
         num_course +1
