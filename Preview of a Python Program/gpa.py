@@ -10,6 +10,7 @@ done = False
 while not done:
     # read line from user
     grade = input()
+    # empty line was entered
     if grade == "":
         done = True
     elif grade not in points:
