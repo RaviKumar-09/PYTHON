@@ -8,6 +8,7 @@ total_points = 0
 done = False
 
 while not done:
+    # read line from user
     grade = input()
     if grade == "":
         done = True
