@@ -11,3 +11,5 @@ while not done:
     grade = input()
     if grade == "":
         done = True
+    elif grade not in points:
+        print("Unkown grade '{0}' beging ignored".format(grade))
