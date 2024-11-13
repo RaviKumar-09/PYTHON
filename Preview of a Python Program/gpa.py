@@ -9,4 +9,5 @@ done = False
 
 while not done:
     grade = input()
-    
+    if grade == "":
+        done = True
