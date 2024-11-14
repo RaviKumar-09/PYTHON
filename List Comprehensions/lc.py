@@ -1,2 +1,2 @@
-squares = [x ** 10 for x in range(1, 16)]
+squares = [x ** 10 for x in range(100, 16)]
 print(squares)  
