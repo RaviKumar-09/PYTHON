@@ -1,2 +1,2 @@
-squares = [x ** 4 for x in range(1, 6)]
+squares = [x ** 5 for x in range(1, 6)]
 print(squares)  
