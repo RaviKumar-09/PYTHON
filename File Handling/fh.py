@@ -1,5 +1,5 @@
 # Writing to a file
-with open("test.txt", "w") as file:
+with open("test.txt", "o") as file:
     file.write("Hello, World!")
 
 # Reading from a file
