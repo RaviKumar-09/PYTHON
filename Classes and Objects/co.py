@@ -5,5 +5,5 @@ class Person:
 
     def greet(self):
         print(f"Hello, my name is {self.name}.")
-person1 = Person(24)
+person1 = Person(24,'Ravi')
 person1.greet() 
