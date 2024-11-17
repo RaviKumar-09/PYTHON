@@ -6,7 +6,5 @@ for key in person:
 
 for value in person.values():
     print(value)
-
-# Loop through key-value pairs
 for key, value in person.items():
     print(f"{key}: {value}")
