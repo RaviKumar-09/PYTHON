@@ -1,6 +1,6 @@
 person = {"name": "Ravikumar", "age": 25, "city": "Palacole"}
 
-# Loop through keys
+
 for key in person:
     print(key)
 
