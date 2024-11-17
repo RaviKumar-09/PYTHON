@@ -4,7 +4,6 @@ person = {"name": "Ravikumar", "age": 25, "city": "Palacole"}
 for key in person:
     print(key)
 
-# Loop through values
 for value in person.values():
     print(value)
 
