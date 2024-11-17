@@ -1,4 +1,4 @@
-person = {"name": "Ravi", "age": 25, "city": "Palacole"}
+person = {"name": "Ravi", "age": 25, "city": "Pal"}
 
 
 for key in person:
